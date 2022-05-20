@@ -1,0 +1,14 @@
+{
+    "name": "alessandroalessio/filewriter",
+    "description": "Easy class to write files",
+    "type": "library",
+    "license": "GNU-GPL",
+    "authors": [
+        {
+            "name": "Alessandro Alessio",
+            "email": "info@a2area.it"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
